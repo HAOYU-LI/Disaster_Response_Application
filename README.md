@@ -1,6 +1,8 @@
 # Disaster Response Pipeline Project
+### Objective
+This project contructs a NLP data processing pipeline for analyzing diasters from twitter messages. Raw data is cleaned and then saved into sql database. Then python sklean, nltk, pandas etc libraries are utilized to extract features for data modeling. Traditional NLP feature extraction methods such as tf/idf are applied and then feed into machine learning models.
 
-### Instructions:
+### Usage Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
@@ -11,4 +13,7 @@
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/
+3. Go to http://0.0.0.0:3001/ for using the web application.
+
+### Examples:
+<img src="img/sample.png"><br>
