@@ -17,3 +17,9 @@ This project contructs a NLP data processing pipeline for analyzing diasters fro
 
 ### Examples:
 <img src="img/sample.png"><br>
+
+
+### Tools
+1. Web development: Flask, plotly, html
+2. Database: sqlite
+3. Data processing & modeling: sklearn, nltk etc
